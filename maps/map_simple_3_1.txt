@@ -1,0 +1,7 @@
+16 6 3 R
+XXXXXXXXXXXXXXXX
+X.M..X.......XGX
+X....J.........X
+XXXXXJ.......J.X
+XG..........GX.X
+XXXXXXXXXXXXXXXX

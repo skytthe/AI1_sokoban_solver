@@ -1,0 +1,14 @@
+19 13 12 D
+  XXXXXXXXXXXXXXXXX
+XXXMXXD........GGGX
+XDDDDXD........GGGX
+XDJ.DXD........GGGX
+XDJJDXD........GGGX
+XX.JDXXXJXXXXXXXXXX
+ X.XXXD.JDX        
+XX...J..JDX        
+XD.J.X..JDX        
+XDJ..X...DX        
+XD.J.X...DX        
+XDDDDXDDDDX        
+XXXXXXXXXXX        

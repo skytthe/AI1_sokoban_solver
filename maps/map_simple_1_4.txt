@@ -1,0 +1,6 @@
+16 5 1 Rs
+XXXXXXXXXXXXXXXX
+X.............MX
+X...J..........X
+X..........G...X
+XXXXXXXXXXXXXXXX
